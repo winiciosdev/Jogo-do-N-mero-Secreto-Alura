@@ -48,3 +48,7 @@ Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/lucasoliveira/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/jogo-numero-secreto.git
+
+## Observação
+Caso for utilizar o VScode para modificações, tente utilizar outra extensão ao invés do live server, nem todas as alterações ou funcionalidades são exibidas lá.
+
